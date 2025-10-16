@@ -3108,3 +3108,6 @@ Tortilla/Saved/Config/WindowsEditor/GameUserSettings.ini
 Tortilla/Saved/Logs/Tortilla.log
 Tortilla/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_3d6703f089517af8/Default/DDCKey-Editor.txt
 Tortilla/Saved/AutoScreenshot.png
+*.ini
+*.json
+*.bin
